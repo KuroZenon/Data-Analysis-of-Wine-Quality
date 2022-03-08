@@ -1,3 +1,3 @@
 # Data-Analaysis-of-Wine-Quality
-SC1015 DATA SCI SC6 Group 6
+SC1015 DATA SCI SC6 Group 6 \n
 Dataset from: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
