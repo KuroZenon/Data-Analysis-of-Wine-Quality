@@ -33,12 +33,12 @@ The 4 above-mentioned models were utilised for univariate and multivariate analy
 
 
 ## Acknowledgements
-https://www.kaggle.com/datasets/budnyak/wine-rating-and-price
-https://www.linkedin.com/pulse/wine-rating-price-patterns-trends-insights-sebastiano-denegri/
-https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883
-https://www.eatthis.com/news-best-wine-in-the-world/ 
-https://cellaraiders.com/blogs/news/why-wine-tastes-better-with-age 
-https://machinelearningmastery.com/how-to-improve-neural-network-stability-and-modeling-performance-with-data-scaling/ 
+- https://www.kaggle.com/datasets/budnyak/wine-rating-and-price
+- https://www.linkedin.com/pulse/wine-rating-price-patterns-trends-insights-sebastiano-denegri/
+- https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883
+- https://www.eatthis.com/news-best-wine-in-the-world/ 
+- https://cellaraiders.com/blogs/news/why-wine-tastes-better-with-age 
+- https://machinelearningmastery.com/how-to-improve-neural-network-stability-and-modeling-performance-with-data-scaling/ 
 
 
 
