@@ -2,7 +2,7 @@
 
 ## About
 This SC1015 Introduction to Data Science and Artificial Intelligence Mini-Project analyses data from [Vivino Wine Dataset](https://www.kaggle.com/datasets/budnyak/wine-rating-and-price). For the best walkthrough experience, we recommend viewing the notebooks in the following order:
-[Notebook 1](insert link)
+[Data Preparation and EDA](https://github.com/KuroZenon/Data-Analysis-of-Wine-Quality/blob/main/Data%20Preparation%20and%20EDA.ipynb)
 [Notebook 2](insert link)
 
 
