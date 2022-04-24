@@ -7,8 +7,8 @@ This SC1015 Introduction to Data Science and Artificial Intelligence Mini-Projec
 
 
 ## Problem Definition
-How do different variables affect the price of wine (red, white, rosé, sparkling)?
-Which model most accurately predicts the price of wine?
+- How do different variables affect the price of wine (red, white, rosé, sparkling)?
+- Which model most accurately predicts the price of wine?
 
 
 ## Models used
